@@ -1,47 +1,26 @@
 ---
 layout: post
-title: Sample blog post
-excerpt: This blog post shows a few different types of content that's supported and styled with Markdown. Basic typography, images, and code are all supported.
-date: 2018-03-01
-tags: sampletag
-author: Mark
+title: January 2, 2020
+excerpt: Mom and Dad and Sous Vide
+date: 2020-01-02
+tags: farm, mom, dad, cars
+author: Greg
 ---
 
 This blog post shows a few different types of content that's supported and styled with Markdown. Basic typography, images, and code are all supported.
 
 -----
 
-Cum sociis natoque penatibus et magnis [dis parturient montes](#), nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+**Jan 2 2020 **
 
-Curabitur blandit tempus porttitor. **Nullam quis risus eget urna mollis** ornare vel eu leo. Nullam id ~~dolor id~~ nibh ultricies vehicula ut id elit.
+ 
 
-Etiam porta *sem malesuada magna* mollis euismod.
+**Activities**: Mom and Dad at the farm. Easy morning with coffee and conversation. Cooked roast, eggs in sous vide bath. Dad and I welded. Dad rode electric go kart. I took a call for work to discuss planning the move to "modern desktop management" for Wrench. Mom and Dad headed home about 3pm. I finished up master bath ceiling trim, went in to town for dinner at Café Tomas and some shopping at Atwood's and Harbor Freight. Watched Captain marvel with the kids.  Need to order headlights/spot lights for the Yuhoe. Was pretty harrowing taking it in to town in the dark and rain. 
 
-> Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+ 
 
-## Heading
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+**Food**: Roast and gravy thickened with poached egg yolk. Three cookies. One serving of dark chocolate. Two coffees with heavy cream. Chips, salsa, fajita meat. 
 
-### Sub-heading
+ 
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-`Example code block`
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-### Sub-heading
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+**Mood**: A little blue at times - this is our next to last evening at the farm. Even keel otherwise. 
