@@ -1,13 +1,16 @@
 ---
 layout: post
-title: Another blog post
-excerpt: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
-tags: sampletag
-author: Jacob
+title: January 3, 2020
+excerpt: New year at the farm.
+author: Greg
+tags: farm, julie
+date: 1/3/2020
 ---
 
-Cum sociis natoque penatibus et magnis [dis parturient montes](#), nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+**Jan 3 2020**
 
-Curabitur blandit tempus porttitor. **Nullam quis risus eget urna mollis** ornare vel eu leo. Nullam id ~~dolor id~~ nibh ultricies vehicula ut id elit.
+__Activities__: Finished up ceiling paint of porch, cleaned garage, planted three small pine trees. Wrench IT call this a.m. Julie made a trip into town to bring inflammable garbage to her parents' house for pickup.  
 
-Etiam porta *sem malesuada magna* mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+__Food__: cookies, roast, coffee and cream, dark chocolate. Slowly getting back to no carb. Hard when you're not super busy and surrounded by holiday food.  
+
+__Mood__: blueish, but great outlook. Looking forward to getting work projects started.   
