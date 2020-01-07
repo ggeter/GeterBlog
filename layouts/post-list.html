@@ -10,7 +10,9 @@
         <div class="post-content">
           <% if(post.excerpt) { %>
             <p><%= post.excerpt %></p>
-          <% } %>
+          <% } else { %>
+            <p><%= post.content %></p>
+          <% }  %>
         </div>
       </article>
     <% } %>
