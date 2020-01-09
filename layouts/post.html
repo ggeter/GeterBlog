@@ -4,18 +4,15 @@
     <%= data.title %>
   </h1>
   <% if(data.date) { %>
-    <time class="post-date">
-      <span><%= data.date %></span>
-    </time>
+  <time class="post-date">
+    <span><%= data.date %></span>
+  </time>
   <% } %>
   <div class="post-tags">
-    <% if(data.tags) { %>
-      <% data.tags.forEach(function(tag) { %>
-        <% if(tag) { %>
-          <a href="#/posts?tag=<%= tag %>" class="post-tag"><%= tag %></a>
-        <% } %>
-      <% }) %>
-    <% } %>
+    <% if(data.tags) { %> <% data.tags.forEach(function(tag) { %> <% if(tag) {
+    %>
+    <a href="#/posts?tag=<%= tag %>" class="post-tag"><%= tag %></a>
+    <% } %> <% }) %> <% } %>
   </div>
   <div class="post-content">
     <%= data.body %>
