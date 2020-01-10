@@ -9,10 +9,13 @@
   </time>
   <% } %>
   <div class="post-tags">
-    <% if(data.tags) { %> <% data.tags.forEach(function(tag) { %> <% if(tag) {
-    %>
+    <% if(data.tags) { %>
+    <% data.tags.forEach(function(tag) { %>
+    <% if(tag) { %>
     <a href="#/posts?tag=<%= tag %>" class="post-tag"><%= tag %></a>
-    <% } %> <% }) %> <% } %>
+    <% } %>
+    <% }) %>
+    <% } %>
   </div>
   <div class="post-content">
     <%= data.body %>
