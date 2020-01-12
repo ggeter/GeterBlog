@@ -5,7 +5,8 @@
     <h1 class="post-title">
       <a href="<%= post.permalink %>"><%= post.title %></a>
     </h1>
-    <time class="post-date"><%= post.date %></time>
+    <time class="post-date">Posted on <%= post.date %> / <%= post.body.split(' ').length %> words.</time>
+
     <div class="post-content">
       <% if(post.excerpt) { %>
       <p><%= post.excerpt %></p>
